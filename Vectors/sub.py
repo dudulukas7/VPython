@@ -1,7 +1,5 @@
 Web VPython 3.2   
 
-from vpython import *  
-
 scene = canvas(title="Subtração de Vetores", width=600, height=400, background=color.black)  
 
 x1 = float(input("Digite a componente X do primeiro vetor (A): "))  
