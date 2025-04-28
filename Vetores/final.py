@@ -1,5 +1,4 @@
 Web VPython 3.2
-from vpython import *
 
 while True:
     operacao = input("Qual operação você deseja? soma, subtração, multiplicação (ou 'nao' para sair): ").strip().lower()
