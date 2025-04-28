@@ -1,7 +1,7 @@
 Web VPython 3.2
 
 while True:
-    operacao = input("Qual operação você deseja? soma, subtração, multiplicação (ou 'nao' para sair): ").strip().lower()
+    operacao = input("Qual operação você deseja? soma, subtracao, multiplicacao (ou 'nao' para sair): ").strip().lower()
     
     if operacao == "nao":
         break
